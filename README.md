@@ -8,6 +8,6 @@
 |2022.05.14|[2장 정리본](https://github.com/yujiah-github/JavascriptStudy/commit/3be8dba6cd428045e97dd394d5a18888fd2d7155)|
 |2022.05.14|[3장 정리본](https://github.com/yujiah-github/JavascriptStudy/commit/a60dbbbf77908fa049c9e69d12e4dec8a4304f3f)|
 |2022.05.21|[4장 정리본](https://github.com/yujiah-github/JavascriptStudy/commit/dd1179b9923521e2d2b52634e482fe60a8f819ee)|
-|2022.05.21|5장 정리본|
+|2022.05.21|[5장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84/Chapter5.md)|
 |2022.05.21|6장 정리본|
 |2022.05.21|7장 정리본|
