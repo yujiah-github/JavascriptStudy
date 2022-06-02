@@ -3,7 +3,7 @@
 #### [지아](https://github.com/yujiah-github)
 #### [영은](https://github.com/yeun38)
 
-#### 스터디 일지
+### 스터디 일지
 |스터디 날짜|파일 제목|
 |-------|-------|
 |2022.05.14|[1장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84/Chapter1.md)|
