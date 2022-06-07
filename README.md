@@ -34,7 +34,7 @@
 |**4주차**|2022.06.04|[13장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//4week/Chapter13.md)|
 |**4주차**|2022.06.04|[14장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//4week/Chapter14.md)|
 |**4주차**|2022.06.04|[15장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//4week/Chapter15.md)|
-|**5주차**|2022.06.04|[16장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//5week/Chapter16.md)|
-|**5주차**|2022.06.04|[17장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//5week/Chapter17.md)|
-|**5주차**|2022.06.04|[18장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//5week/Chapter18.md)|
+|**5주차**|2022.06.11|[16장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//5week/Chapter16.md)|
+|**5주차**|2022.06.11|[17장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//5week/Chapter17.md)|
+|**5주차**|2022.06.11|[18장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//5week/Chapter18.md)|
 
