@@ -6,6 +6,16 @@
 ### 2. 프로퍼티 어트리뷰트와 프로퍼티 디스크립터 객체
 - 자바스크립트 엔진은 프로퍼티를 생성할 때 프로퍼티의 상태를 나타내는 프로퍼티 어트리뷰트를 기본값으로 자동 정의한다.
 - 프로퍼티의 상태란 **프로퍼티의 값, 값의 갱신 가능 여부, 열거 가능 여부, 재정의 가능 여부** 를 말한다.
+- Object.getOwnPropertyDescriptor 메서드는 프로퍼티 어트리뷰트 정보를 제공하는 프로퍼티 디스크립터 객체를 반환한다.
+```javascript
+const person = {
+    name: 'Lee'
+};
+
+person.age = 20;
+
+console.log(Object.getOwnPropertyDescriptors(person));
+```
 
 ### 3. 데이터 프로퍼티와 접근자 프로퍼티
 - 프로퍼티는 데이터 프로퍼티와 접근자 프로퍼티로 구분할 수 있다.
@@ -20,10 +30,25 @@
 
 ### 4. 프로퍼티 정의
 - 프로퍼티 정의란 새로운 프로퍼티를 추가하면서 프로퍼티 어트리뷰트를 명시적으로 정의하거나, 기존 프로퍼티의 프로퍼티 어트리뷰트를 재정의하는 것을 말한다. 이를 통해, 객체의 프로퍼티가 어떻게 동작해야 하는지를 명확히 정의할 수 있다.
-- Object.defineProperty 메서드를 사용하면 프로퍼티의 어트리뷰트를 정의할 수 있다. 또한, **Object.defineProperty 메서드** 는 한 번에 하나의 프로퍼티만 정의할 수 있다.
+- **Object.defineProperty 메서드**를 사용하면 프로퍼티의 어트리뷰트를 정의할 수 있다. 또한, **Object.defineProperty 메서드** 는 한 번에 하나의 프로퍼티만 정의할 수 있다.
+
+|프로퍼티 디스크립터 객체의 프로퍼티|대응하는 프로퍼티 어트리뷰트|생략했을 때의 기본 값|
+|:-------:|:-------:|:-------:|
+|value|value|undefined|
+|get|get|undefined|
+|set|set|undefined|
+|writable|writable|false|
+|enumerable|enumerable|false|
+|configurable|configurable|false|
 
 ### 5. 객체 변경 방지
 - 객체는 변경 가능한 값이므로 재할당 없이 직접 변경할 수 있다. **즉, 프로퍼티를 추가하거나 삭제할 수 있고, 프로퍼티 값을 갱신할 수 있고, Object.defineProperty 메서드와 Object.defineProperties메서드를 사용하여 프로퍼티 어트리뷰트를 재정의할 수도 있다.**
+
+|구분|메서드|프로퍼티 추가|프로퍼티 삭제|프로퍼티 값 읽기|프로퍼티 값 쓰기|프로퍼티 어트리뷰트 재정의|
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|객체 확장 금지|Object.preventExtensions|X|O|O|O|O|
+|객체 밀봉|Object.seal|X|X|O|O|X|
+|객체 동결|Object.freeze|X|X|O|X|X|
 
 #### 5.1 객체 확장 금지
 - **Object.preventExtensions 메서드** 는 객체의 확장을 금지한다. 확장이 금지된 객체는 프로퍼티 추가가 금지된다.
