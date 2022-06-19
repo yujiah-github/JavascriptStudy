@@ -40,3 +40,7 @@
 |**6주차**|2022.06.18|[19장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//6week/Chapter19.md)|
 |**6주차**|2022.06.18|[20장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//6week/Chapter20.md)|
 |**6주차**|2022.06.18|[21장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//6week/Chapter21.md)|
+|**7주차**|2022.06.25|[22장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//7week/Chapter22.md)|
+|**7주차**|2022.06.25|[23장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//7week/Chapter23.md)|
+|**7주차**|2022.06.25|[24장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//7week/Chapter24.md)|
+|**7주차**|2022.06.25|[25장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//7week/Chapter25.md)|
