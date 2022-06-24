@@ -48,6 +48,6 @@
 #### 7월
 |주차|스터디 날짜|파일 제목|
 |:-------:|:-------:|:-------:|
-|**8주차**|2022.07.02|[26장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//8week/Chapter26.md)|
-|**8주차**|2022.07.02|[27장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//8week/Chapter27.md)|
-|**8주차**|2022.07.02|[28장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//8week/Chapter28.md)|
+|**9주차**|2022.07.09|[26장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//9week/Chapter26.md)|
+|**9주차**|2022.07.09|[27장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//9week/Chapter27.md)|
+|**9주차**|2022.07.09|[28장 정리본](https://github.com/yujiah-github/JavascriptStudy/blob/main/%EC%A7%80%EC%95%84//9week/Chapter28.md)|
